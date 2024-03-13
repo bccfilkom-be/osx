@@ -1,5 +1,5 @@
 {
-  description = "go-bersih's dev environment";
+  description = "osx dev environment";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
